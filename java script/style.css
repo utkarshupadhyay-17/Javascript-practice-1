@@ -1,0 +1,38 @@
+/* .heading {
+    color:blue;
+    background-color: yellow;
+}
+body {
+    background-color: pink;
+}
+button {
+    color: rgb(96, 42, 146);
+    background-color: rgb(244, 170, 170);
+} */
+/* 
+.box {
+    height:100px;
+    width:100px;
+    border:1px solid black ;
+    margin: 5px;
+    text-align: center;
+    background:aquamarine; 
+} */
+/* 
+#box {
+    height:200px;
+    width:100px;
+    background-color: blueviolet;
+    color:white;
+    border: 5px solid black;
+    align-items: center;
+   
+} */
+
+div {
+    height: 100px;
+    width:100px;
+    background-color:dodgerblue ;
+    color: white;
+    border: 1px solid black;
+}
